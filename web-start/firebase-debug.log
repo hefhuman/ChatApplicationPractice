@@ -1,0 +1,28 @@
+[debug] [2017-09-08T10:51:26.132Z] ----------------------------------------------------------------------
+[debug] [2017-09-08T10:51:26.152Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DC\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve --project bctechit2017
+[debug] [2017-09-08T10:51:26.153Z] CLI Version:   3.10.0
+[debug] [2017-09-08T10:51:26.153Z] Platform:      win32
+[debug] [2017-09-08T10:51:26.153Z] Node Version:  v6.11.3
+[debug] [2017-09-08T10:51:26.203Z] Time:          Fri Sep 08 2017 18:51:26 GMT+0800 (Malay Peninsula Standard Time)
+[debug] [2017-09-08T10:51:26.203Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-09-08T10:51:26.336Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-09-08T10:51:26.336Z] > authorizing via signed-in user
+[debug] [2017-09-08T10:51:26.339Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bctechit2017  
+ Fri Sep 08 2017 18:51:26 GMT+0800 (Malay Peninsula Standard Time)
+[debug] [2017-09-08T10:51:27.766Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-08T10:51:27.768Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/bctechit2017/tokens  
+ Fri Sep 08 2017 18:51:27 GMT+0800 (Malay Peninsula Standard Time)
+[debug] [2017-09-08T10:51:28.581Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'G:\vindecode\devs\project\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-09-08T10:51:28.584Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/bctechit2017  
+ Fri Sep 08 2017 18:51:28 GMT+0800 (Malay Peninsula Standard Time)
+[debug] [2017-09-08T10:51:30.195Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-08T10:51:30.196Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/40780469054/clients/_:getWebAppConfig  
+ Fri Sep 08 2017 18:51:30 GMT+0800 (Malay Peninsula Standard Time)
+[debug] [2017-09-08T10:51:31.415Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
